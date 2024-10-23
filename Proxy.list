@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,muniucloud.pro
 DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,diwodiwo.xyz
+DOMAIN-KEYWORD,steam
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
