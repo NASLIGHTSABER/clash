@@ -1,3 +1,6 @@
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN,api.segment.io
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,diabrowser.engineering
